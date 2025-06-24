@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ComSciAssessmentSnakesandLaddersV2
+comment0.text=\r\n\ My\ second\ 2025\ Computer\ Science\ (CSC223)\ Assessment.\ I\ have\ decided\ to\ make\ a\ game\ of\ Snakes\ and\ Ladders-\ This\ code\ is\ for\ that\ game\ of\ Snakes\ and\ Ladders\r\n\r\n\ NCEA\ assessment\ code\:\ AS91897\r\n\ @author\ Aren\ Prior\r\n\ @version\ 16/6/25\r\n
+comment1.params=
+comment1.target=ComSciAssessmentSnakesandLaddersV2()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ComSciAssessmentSnakesandLaddersV2\r\n
+comment2.params=
+comment2.target=void\ printBoard()
+numComments=3
