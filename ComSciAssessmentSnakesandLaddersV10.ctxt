@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ComSciAssessmentSnakesandLaddersV10
+comment0.text=\r\n\ My\ second\ 2025\ Computer\ Science\ (CSC223)\ Assessment.\ I\ have\ decided\ to\ make\ a\ game\ of\ Text-Based\ Snakes\ and\ Ladders\r\n\r\n\ NCEA\ assessment\ code\:\ AS91897\r\n\ @author\ Aren\ Prior\r\n\ @version\ 30/7/25\r\n
+comment1.params=
+comment1.target=ComSciAssessmentSnakesandLaddersV10()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ComSciAssessmentSnakesandLaddersV10\r\n
+comment2.params=
+comment2.target=void\ printBoard()
+comment3.params=
+comment3.target=int\ dieRoll()
+comment4.params=
+comment4.target=boolean\ makeGoodInput()
+comment5.params=finalRoll
+comment5.target=void\ counterMovementA(int)
+comment6.params=finalRoll
+comment6.target=void\ counterMovementE(int)
+numComments=7
